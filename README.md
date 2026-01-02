@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hello! 👋
+
+I’m a student interested in product management and how developers build and ship software.
+
 
 <!--
-**azl35/azl35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**azl35/azl35**
+ is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
