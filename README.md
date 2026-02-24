@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I’m a student interested in product management and how developers build and ship software.
+I’m a student interested in how developers build and ship software. Currently taking classes which use python, SQL , and R. 
 
 
 <!--
