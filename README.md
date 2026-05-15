@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-I’m a student interested in how developers build and ship software. Currently taking classes which use python, SQL , and R. 
+I’m a student at NYU Stern. Currently taking classes which use python, SQL , and R. 
 
 
 <!--
